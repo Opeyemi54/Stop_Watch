@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name= "start">Start</string>
+    <string name= "pause">Pause</string>
+    <string name= "reset">Reset</string>
+    <string name="button1">Start</string>
+    <string name="button2">Pause</string>
+    <string name="button3">Reset</string>
+</resources>
